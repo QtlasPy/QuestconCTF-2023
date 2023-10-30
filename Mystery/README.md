@@ -4,7 +4,7 @@
 
 <img src=pirate.jpg width=700 height=400 style="display: block; margin: 0 auto"></img>
 
-<p> With this informations we try to extract hidden information with <strong>steghide</strong> : </p>
+<p> With this informations we try to extract hidden information with <a href=https://www.kali.org/tools/steghide/>steghide</a> : </p>
 
 ```
 ──(atlas㉿Kali)-[~/Documents/QuestconCTF/WU/Mystery]
