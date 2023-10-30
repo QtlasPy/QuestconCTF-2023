@@ -4,7 +4,7 @@
 
 <img src=another_mystery.png width=700 height=400></img>
 
-<p> So for find the hidden scret this time we can find a another tool : <a href=https://github.com/zed-0xff/zsteg>zsteg</a>.</p>
+<p> So for find the hidden scret this time we can find a another tool : <a href=https://github.com/zed-0xff/zsteg>zsteg</a>.  </p>
 
 ```
 ┌──(atlas㉿Kali)-[~/Documents/QuestconCTF/WU/Mystery2.0]
